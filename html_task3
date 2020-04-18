@@ -1,0 +1,50 @@
+<DOCTYPE html>
+  <html>
+  <head>
+    <title>my bio data</title>
+    <link rel="stylesheet" type="text/css" href="News.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <fieldset class="content">
+      <img src="dan.jpg"/>
+      <h1>My BIO DATA</h1>
+      <p>NAME: Ojanga Daniel Jnr </p><br>
+      <p>STATE OF ORIGIN: Benue State</p><br>
+      <p>HOME TOWN: Makurdi </p><br>
+      <p>DATE OF BIRTH: 7/June/1991 </p><br>
+      <p>ADDRESS: No. 47 Barracks Road Makurdi</p><br>
+      <p>OCCUPATION: Corper</p><br>
+      <p>SLACK ID: @Djon15050</p><br>
+      <p>HOBBIES: Playing Basketball, Reading</p><br>
+      <p>INTEREST: Frontend </p><br>
+    </fieldset>
+    <form>
+      <fieldset>
+        <h3>Contact form</h3>
+        <div>
+        <label for="full name">Full Name:</label><br>
+        <input type="text" name="full name" placeholder="full name">
+        </div>
+        <div>
+        <label for="phone number">Phone Number:</label><br>
+        <input type="number" name="phone number" placeholder="Phone Number">
+        </div>
+        <div>
+        <label for="email">Email:</label><br>
+        <input type="text" name="email" placeholder="email">
+        </div>
+        <div>
+          <label for="message">Message:</label><br>
+          <input type="text" name="Message" placeholder="">
+          <input type="submit" value="Send">
+        </div>
+      </fieldset>
+        
+      </form>
+  </body>
+  </html>
+    
+    
+    
+
